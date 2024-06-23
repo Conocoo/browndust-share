@@ -23,7 +23,7 @@ jobs:
 
     - name: Copy Files to Build Folder 📁
       run: |
-        cp -r sub_resource/* build/
+        cp -r sub_resource/* build/resource/thumbnail
   
     - name: Deploy 🚀
       uses: JamesIves/github-pages-deploy-action@v4
