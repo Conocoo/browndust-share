@@ -4,15 +4,15 @@
     "version": "1.0.0",
     "author": {
         "name": "Robby",
-        "email": "ta7382@gmail.com"
+        "email": "yk1226ull@gmail.com"
     },
-    "homepage": "https://conocoo.github.io/browndust-share/",
+    "homepage": "https://conocoo.github.io/",
     "repository": {
         "type": "git",
         "url": "https://github.com/Conocoo/browndust-share.git"
     },
     "bugs": {
-        "url": "https://github.com/explooosion/browndust-share/issues"
+        "url": "https://github.com/Conocoo/browndust-share/issues"
     },
     "license": "MIT",
     "keywords": [
