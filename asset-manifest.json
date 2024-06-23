@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/browndust-share/static/css/main.694565c8.chunk.css",
-    "main.js": "/browndust-share/static/js/main.44b215ad.chunk.js",
+    "main.js": "/browndust-share/static/js/main.53054596.chunk.js",
     "runtime-main.js": "/browndust-share/static/js/runtime-main.2214150e.js",
     "static/css/2.82aa9138.chunk.css": "/browndust-share/static/css/2.82aa9138.chunk.css",
-    "static/js/2.128023ae.chunk.js": "/browndust-share/static/js/2.128023ae.chunk.js",
+    "static/js/2.f2375a29.chunk.js": "/browndust-share/static/js/2.f2375a29.chunk.js",
     "index.html": "/browndust-share/index.html",
-    "static/js/2.128023ae.chunk.js.LICENSE.txt": "/browndust-share/static/js/2.128023ae.chunk.js.LICENSE.txt",
+    "static/js/2.f2375a29.chunk.js.LICENSE.txt": "/browndust-share/static/js/2.f2375a29.chunk.js.LICENSE.txt",
     "static/media/_index.scss": "/browndust-share/static/media/SourceSansPro-Regular.7a9975d8.otf",
     "static/media/Formation.scss": "/browndust-share/static/media/formation_background.c8bc094d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2214150e.js",
     "static/css/2.82aa9138.chunk.css",
-    "static/js/2.128023ae.chunk.js",
+    "static/js/2.f2375a29.chunk.js",
     "static/css/main.694565c8.chunk.css",
-    "static/js/main.44b215ad.chunk.js"
+    "static/js/main.53054596.chunk.js"
   ]
 }
