@@ -27,4 +27,3 @@ jobs:
         token: ${{ secrets.ACCESS_TOKEN }} 
         folder: build # The folder the action should deploy.
         branch: gh-pages
- 
