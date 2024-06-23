@@ -99,7 +99,7 @@ git push origin master
 
 Update characters from Korea version with the following script.
 
-```sh
+```sh 
 yarn download # npm run download
 ```
 
