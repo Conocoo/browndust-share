@@ -82,8 +82,8 @@ function Footer() {
   return (
     <Foot>
       <Items>
-        <a className='footer-link' alt='github' title='github' href='https://github.com/explooosion/browndust-share' target='_blank' rel="noopener noreferrer"><FaGithub size='2em' /></a>
-        <a className='footer-link' alt='issue' title='issue' href='https://github.com/explooosion/browndust-share/issues' target='_blank' rel="noopener noreferrer"><GoIssueOpened size='2.3em' /></a>
+        <a className='footer-link' alt='github' title='github' href='https://github.com/Conocoo/browndust-share' target='_blank' rel="noopener noreferrer"><FaGithub size='2em' /></a>
+        <a className='footer-link' alt='issue' title='issue' href='https://github.com/Conocoo/browndust-share/issues' target='_blank' rel="noopener noreferrer"><GoIssueOpened size='2.3em' /></a>
         <span
           className='footer-link'
           onClick={() => setHelpTips(!helpTips)}
