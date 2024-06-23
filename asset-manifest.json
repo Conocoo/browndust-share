@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/browndust-share/static/css/main.694565c8.chunk.css",
-    "main.js": "/browndust-share/static/js/main.53054596.chunk.js",
+    "main.js": "/browndust-share/static/js/main.eb9fc615.chunk.js",
     "runtime-main.js": "/browndust-share/static/js/runtime-main.2214150e.js",
     "static/css/2.82aa9138.chunk.css": "/browndust-share/static/css/2.82aa9138.chunk.css",
     "static/js/2.f2375a29.chunk.js": "/browndust-share/static/js/2.f2375a29.chunk.js",
@@ -15,6 +15,6 @@
     "static/css/2.82aa9138.chunk.css",
     "static/js/2.f2375a29.chunk.js",
     "static/css/main.694565c8.chunk.css",
-    "static/js/main.53054596.chunk.js"
+    "static/js/main.eb9fc615.chunk.js"
   ]
 }
